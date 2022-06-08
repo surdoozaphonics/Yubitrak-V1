@@ -14,6 +14,5 @@ Here are my Cura settings:
 
 ![IMG_1979](https://user-images.githubusercontent.com/102103691/172692000-32af7b0c-bc12-40dc-9cc0-d7a2a6d41904.jpg)
 ![IMG_1976](https://user-images.githubusercontent.com/102103691/172692023-bcfeee8e-38ef-406f-8e3c-f94aef984ff9.jpg)
-![IMG_1977](https://user-images.githubusercontent.com/102103691/172692032-f9e3c532-9788-4696-b262-d001bf43f399.jpg)
 ![IMG_1977](https://user-images.githubusercontent.com/102103691/172692056-78220cb2-42cd-4607-aba2-2b154492dd51.jpg)
 ![IMG_1978](https://user-images.githubusercontent.com/102103691/172692076-b4059db4-20c5-4318-a95c-399f4c026185.jpg)
