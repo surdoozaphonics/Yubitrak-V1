@@ -6,6 +6,7 @@ A two-piece snap fit case that holds both a Yubikey 5NFC and AirTag.
 Snap fits together along the edge and through the keyhole. To get a smooth top and bottom I've been printing upside down with supports as pictured below. I had some adhesion issues, so I've been using a raft as well. I'm sure it uses about as much filament as the actual model and takes a quarter of the time so if you can get away without a raft, it's worth a shot.
 
 Here are my Cura settings:
+
 <img width="464" alt="Screen Shot 2022-05-10 at 10 30 41 PM" src="https://user-images.githubusercontent.com/102103691/172692298-943d3b42-e01d-4e9a-917c-c5c07a0e37da.png">
 <img width="441" alt="Screen Shot 2022-05-10 at 10 31 22 PM" src="https://user-images.githubusercontent.com/102103691/172692311-35874b41-bc85-4d1b-b193-053f1faff8ba.png">
 
